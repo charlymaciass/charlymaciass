@@ -4,6 +4,6 @@ Hi there 👋
 - 👯 I’m looking to collaborate on open source projects related to automation and data management.
 - 🤔 I’m open to any kind of feedback or advice.
 - 💬 Ask me about anything related to software development, data science, or machine learning.
-- 📫 You can reach me via email ([Email](69223137+charlymaciass@users.noreply.github.com)) or Instagram (https://www.instagram.com/charlymaciass/).
+- 📫 You can reach me via [Email](69223137+charlymaciass@users.noreply.github.com) or [Instagram](https://www.instagram.com/charlymaciass/).
 - 😄 My pronouns are he/him.
 - ⚡ Fun fact: I’m a big fan of video games, hiking, and going to the gym.
